@@ -18,6 +18,8 @@ img {
     unsafe_allow_html=True,
 )
 
+
+
 type_emoji_dict = {
     "노말": "⚪",
     "격투": "✊",
