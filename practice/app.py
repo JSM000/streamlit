@@ -83,7 +83,7 @@ example_pokemon = {
 if "pokemons" not in st.session_state:
     st.session_state.pokemons = initial_pokemons
 
-st.subheader("포켓몬을 하나씩 추가해서 도감을 채워보세요~!")
+st.subheader("이래도 된다고?? 포켓몬을 하나씩 추가해서 도감을 채워보세요~!")
 
 auto_complete = st.toggle("예시 데이터로 채우기")
 
